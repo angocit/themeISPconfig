@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 80" width="80" height="80" role="img" aria-label="NPanel logo">
+  <rect width="100%" height="100%" fill="transparent"/>
+
+  <text x="0" y="60" font-style="italic" font-family="Inter, 'Segoe UI', Arial, sans-serif" font-weight="700" font-size="64" filter="url(#ds)">
+    <tspan fill="#FF5A5F">n</tspan>
+    <tspan dx="-18" fill="#FFB400">P</tspan>
+  </text>
+</svg>
